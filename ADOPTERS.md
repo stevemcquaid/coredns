@@ -2,4 +2,4 @@
 * [Sky Betting & Gaming](http://engineering.skybettingandgaming.com) uses CoreDNS for Kubernetes cluster DNS.
 * [Kismia](https://kismia.com) uses CoreDNS for Kubernetes cluster DNS.
 * [Admiral](https://getadmiral.com) uses CoreDNS to handle geographic DNS requests for our public-facing microservices.
-* [Gladly](https://gladly.com) is moving from KubeDNS to CoreDNS to hangle DNs queries across kubernetes services and legacy VPCs
+* [Gladly](https://gladly.com) is moving from KubeDNS to CoreDNS to handle DNS queries across kubernetes services and legacy VPCs
